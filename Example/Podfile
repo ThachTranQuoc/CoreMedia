@@ -3,9 +3,5 @@ use_frameworks!
 target 'CoreMedia_Example', :exclusive => true do
   pod 'CoreMedia', :path => '../'
 end
-
-target 'CoreMedia_Tests', :exclusive => true do
-  pod 'CoreMedia', :path => '../'
-
   
 end

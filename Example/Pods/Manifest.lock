@@ -1,0 +1,14 @@
+PODS:
+  - CoreMedia (0.1.0)
+
+DEPENDENCIES:
+  - CoreMedia (from `../`)
+
+EXTERNAL SOURCES:
+  CoreMedia:
+    :path: ../
+
+SPEC CHECKSUMS:
+  CoreMedia: 5bdbcee293d394420a036671dede5532f7ce8c06
+
+COCOAPODS: 0.39.0
